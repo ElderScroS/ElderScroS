@@ -10,4 +10,4 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 💪 As someone who thrives on challenges, I have an affinity for languages like C and C++, exploring intricate code and unraveling the mysteries within. My ultimate goal is to delve into machine code.
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-🌟 Currently you can find projects in my GitHub profile, and also check out my LinkedIn for more about me.                   
+🌟 You can find projects in my GitHub profile, and also check out my LinkedIn for more about me.                   
