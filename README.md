@@ -11,12 +11,4 @@ ________________________________________________________________________________
 💪 As someone who thrives on challenges, I have an affinity for languages like C and C++, exploring intricate code and unraveling the mysteries within. My ultimate goal is to delve into machine code.
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 🌟 Currently, I have two projects: "Hotel Management System" and "Combats" linked to the Elder Scrolls Online game. They are works in progress, not yet perfect, but time constraints due to school keep me from further
-developing them. You can find these projects in my GitHub profile, and also check out my LinkedIn for more about me.    
-
-
-Projects:
-                                                                        1 -- [ https://github.com/ElderScroS/Hotel-Management-System ]
-                                                                        2 -- [ https://github.com/ElderScroS/Combats ]
-
-
-               
+developing them. You can find these projects in my GitHub profile, and also check out my LinkedIn for more about me.                   
