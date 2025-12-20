@@ -1,5 +1,5 @@
 # <h2>👋 Hi, I'm Mark Nikulov</h1>
-# <h3>I'm 17 years old</h3>
+
 🧠 I'm an aspiring learner who enjoys taking the road less traveled, especially the challenging and complex ones.
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 📚 Currently, I'm diving into the world of JavaScript with React library. Simultaneously, I'm crafting a project in C# utilizing MVC architecture and T-SQL for database management.
