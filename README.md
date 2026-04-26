@@ -2,7 +2,7 @@
 
 ## C++ Developer
 
-C++ developer focused on low-level programming, performance, and system design. Experienced in working with complex code and solving non-trivial engineering problems.
+I'm focused on low-level programming, performance, and system design. Experienced in working with complex code and solving non-trivial engineering problems.
 
 Also have hands-on experience with .NET (C#), including building a full-scale MVC application with PostgreSQL database integration.
 
