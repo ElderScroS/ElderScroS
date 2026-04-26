@@ -6,6 +6,6 @@ Focused on low-level programming, performance, and system design. Experienced in
 
 Also have hands-on experience with .NET (C#), including building a full-scale MVC application with PostgreSQL database integration.
 
-**Main tech stack:** C++, C#, PostgreSQL, JavaScript (React), Assembly (foundational knowledge)
+**Main tech stack:** C++, C#, Assembly (foundational knowledge), JavaScript (React, jQuery)
 
 Additional technologies and tools can be found in my repositories.
